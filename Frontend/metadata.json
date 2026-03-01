@@ -1,8 +1,0 @@
-{
-  "name": "Neural Architect: Second Brain",
-  "description": "A sophisticated academic management system with AI-driven study tools, priority-ranked task management, and smart note-taking.",
-  "requestFramePermissions": [
-    "microphone",
-    "camera"
-  ]
-}
